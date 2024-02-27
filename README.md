@@ -1,6 +1,6 @@
 # プロジェクトタイトル
 
-42_Road-to-Mercari-Gopher-Dojo-01
+42_Road-to-Mercari-Gopher-Dojo-02
 
 ## 概要
 
